@@ -8,8 +8,8 @@ else:
     prereqs = ['simplejson>=2.0.9', ]
 
 setup(
-    name='pymediainfo',
-    version='1.3.5',
+    name='propper_pymediainfo',
+    version='1.3.5.1',
     author='Patrick Altman',
     author_email='paltman@gmail.com',
     url='git@github.com/paltman/pymediainfo.git',
